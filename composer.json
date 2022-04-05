@@ -9,7 +9,7 @@
             "email": "hedaoor@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "version": "1.0.0",
     "autoload": {
