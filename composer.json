@@ -1,22 +1,23 @@
 {
-    "name": "rahulhedaoo/module-hello",
-    "description": "asd",
+    "name": "rahul/module-hello",
+    "description": "Testing Module Creation using composer",
     "type": "magento2-module",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name": "Rahul Hedaoo",
+            "email": "hedaoor@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "require": {},
+    "version": "1.0.0",
     "autoload": {
         "files": [
             "registration.php"
         ],
         "psr-4": {
-            "RahulHedaoo\\Hello\\": ""
+            "Rahul\\Hello\\": ""
         }
     }
 }
